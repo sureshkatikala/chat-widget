@@ -1,0 +1,31 @@
+{
+  "name": "webpage-autochat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@shopify/koa-shopify-auth": "^3.1.16",
+    "@zeit/next-css": "^1.0.1",
+    "dotenv": "^6.2.0",
+    "font-awesome": "^4.7.0",
+    "isomorphic-fetch": "^2.2.1",
+    "koa": "^2.7.0",
+    "koa-session": "^5.10.1",
+    "next": "^8.0.3",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-fontawesome": "^1.6.1"
+  },
+  "devDependencies": {
+    "style-loader": "^0.23.1"
+  }
+}

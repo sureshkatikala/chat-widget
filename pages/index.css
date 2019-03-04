@@ -1,0 +1,47 @@
+.page-title {
+    text-align: center
+}
+.icon {
+    /* opacity: 1;
+    margin:0 auto; */
+    font-size: 40px;
+    color: rgb(66, 61, 61);
+    margin: 5px;
+    cursor: pointer;
+}
+
+.whatsapp {
+    /* font-size: 48p, 
+    color: Dodgerblue,
+     */
+     /* font-size: 48px; */
+     color: rgb(23, 206, 23);
+     /* opacity: 0.4; */
+}
+
+.messenger {
+    color: rgb(0,132,255);
+}
+
+body {
+    margin-left: 40px;
+}
+
+.data {
+    margin : 10px;
+}
+
+form {
+    display: block;
+}
+
+label {
+    vertical-align:top;
+}
+header {
+    padding: 156px 0 100px;
+  }
+  
+  section {
+    padding: 150px 0;
+  }
